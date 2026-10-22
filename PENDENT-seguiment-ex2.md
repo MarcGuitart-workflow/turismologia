@@ -1,37 +1,40 @@
-# Seguiment — Exercici 2n Turismologia (lliurament individual)
+# Seguiment — Exercici 2n Turismologia
 
-Article triat: Galí (2022) — *Impacts of COVID-19 on local tour guides* (`gali2022impacts.pdf`).
-Enunciat: `Ejercicio evaluación 2ndo Turismología 26-27.pdf` — entrega dimarts 17/11 abans 23:50h via Moodle, PDF, 25% nota. Es fa individualment tot i que l'enunciat diu grup de 2 (verificar si cal avisar professorat / indicar-ho a la portada).
+Article triat: Galí, Camprubí i Donaire (2017), *Analysing tourism slogans in top tourism destinations* (`gali2017analysing.pdf`).
 
-## Taula de blocs (què contestar i on buscar-ho)
+Enunciat: `Ejercicio evaluación 2ndo Turismología 26-27.pdf`. L'exercici demana respondre les preguntes 1.1–5.4 sobre un dels dos articles proposats. Tot i que l'enunciat indica que és un treball en grup de dues persones, per ara es prepararà i lliurarà amb un únic autor.
 
-| Bloc | Subpreguntes | On buscar-ho a Galí (2022) | En què centrar-se |
+## Taula de blocs
+
+| Bloc | Subpreguntes | On buscar-ho a Galí et al. (2017) | En què centrar-se |
 |---|---|---|---|
-| 1. Objectiu | 1.1 quin és; 1.2 vincle amb literatura (*gap*) | Abstract + final intro; secció 2 (WFTGA, Cohen 1985, Weiler, Alrawadieh, Pauner, de La Harpe) | Clar, concret, observable, assolible; què se sap / què falta (reinvent virtual poc explorat) |
-| 2. Preguntes | 2.1 quines planteja (si no, suggerir) | Q1 situació laboral, Q2 confinament, Q3 post-confinament, Q4 futur | Deriven de l'objectiu, rellevants, respondibles i respostes a resultats |
-| 3. Metodologia | 3.1 mètode + justificació; 3.2 instruments (mostreig, validesa, fiabilitat), avantatges/límits | Secció 3: qualitatiu etnogràfic (Quinn-Ryan, Gustavsson-Hallin), inductiu; 10 entrevistes + 3 observacions virtuals, mostreig intencional, saturació, codificació axial, triangulació | Per què qualitatiu; detall instruments; triangulació com a fortalesa; mostra petita catalana com a límit |
-| 4. Resultats i contribució | 4.1 alineació resultats-objectius; 4.2 contribució; 4.3 implicacions pràctiques i teòriques | Secció 4 (4 categories = Q1-Q4); conclusions (fragilitat, passivitat vs resiliència, virtual complement) | Fil Q→resultat; contribució (primera evidència sistemàtica); pràctiques (diversificar, regular) vs teòriques (rol cara a cara qüestionat) |
-| 5. Límits i futur | 5.1 declarades; 5.2 suggerir-ne; 5.3 futures indicades; 5.4 afegir-ne una | Conclusions: només veu guies catalans, no generalitzable; futur: altres actors, longitudinal, percepció visitant del virtual | Separar declarat vs suggeriment propi (una limitació + una línia, sòbries) |
+| 1. Objectiu | 1.1 objectiu; 1.2 vinculació amb la literatura i buit de recerca | Resum, introducció i apartats 2.1–2.4 | Analitzar les característiques dels eslògans de 150 destinacions en tres nivells; explicar que hi ha pocs estudis i que sovint se centren en àrees geogràfiques concretes |
+| 2. Preguntes | 2.1 preguntes plantejades o suggerides | Objectiu i metodologia | Indicar que l'article no formula preguntes explícites i presentar les preguntes pròpies com a suggeriments |
+| 3. Metodologia | 3.1 mètode; 3.2 mostra, instrument, validesa i fiabilitat | Secció 3 i taules 1–2 | Anàlisi de contingut; 150 destinacions inicials i 120 eslògans; vuit variables; dos avaluadors; acord entre avaluadors; anàlisi descriptiva i comparació entre nivells geogràfics |
+| 4. Resultats i contribució | 4.1 alineació; 4.2 contribució; 4.3 implicacions | Seccions 4–6 i conclusions | Relacionar els resultats amb les vuit variables; destacar la comparació entre països, regions i ciutats; separar implicacions descrites i valoració pròpia |
+| 5. Limitacions i futur | 5.1 limitacions declarades; 5.2 limitació pròpia; 5.3 línies indicades; 5.4 línia addicional | Conclusions, p. 251 de l'article | Distingir les limitacions i línies dels autors de les propostes pròpies; evitar repetir la mateixa idea a 5.2 i 5.4 |
 
-DOI metodològics ja verificats (taula lliurada al xat el 16/10): Cohen 1985, Dahles 2002, Quinn-Ryan 2016, Gustavsson-Hallin 2013, Ong et al. 2014, Hansen-Mossberg 2017, Matteucci-Gnoth 2017, Weiler-Black 2015, de La Harpe-Sevenhuysen 2020; Wise 2018 pendent (capítol sense DOI localitzat).
+## Proposta de treball
 
-## Repartiment de temps (individual)
-
-- 50% a 3.2 + 4.1 (instruments amb detall + fil Q→resultat).
-- 25% a 1.x + 2.x (l'article ho declara; només cal jutjar amb criteris de «La investigación»).
-- 25% a 4.2 + 4.3 + 5.x (contribució, implicacions, 1 límit + 1 futura propis).
+- 5.1: mantenir les dues limitacions indicades pels autors: la relació amb altres elements del *branding* i el màrqueting, i l'absència de destinacions emergents.
+- 5.2: proposar com a limitació pròpia la manca d'informació sobre la recepció, el record i la possible eficàcia dels eslògans.
+- 5.3: mantenir les dues línies futures indicades pels autors: integrar els eslògans amb altres elements de la marca i comparar destinacions consolidades i emergents.
+- 5.4: proposar una línia addicional basada en la dimensió temporal: comparar els eslògans de les 150 destinacions seleccionades el 2014 amb els actuals.
 
 ## Llista de verificació abans de pujar el PDF
 
-- [ ] Portada: assignatura, exercici 2n, nom, indicació «treball individual», data.
-- [ ] S'han respost les 12 subpreguntes (1.1–5.4) en l'ordre de l'enunciat.
-- [ ] Separat què diu l'article vs suggeriments propis (2.1 n/a, 5.2, 5.4).
-- [ ] Cites APA 7 en text (Galí, 2022) + referències; literals amb pàgina només si verificada.
-- [ ] Format PDF via Moodle abans del 17/11 23:50h.
+- [x] Decidir que, per ara, el treball es prepararà amb un únic autor i completar la portada.
+- [x] Respondre les 12 subpreguntes (1.1–5.4) en l'ordre de l'enunciat.
+- [x] Separar què afirma l'article de les propostes pròpies, especialment a 2.1, 5.2 i 5.4.
+- [x] Mantenir una citació de Galí et al. (2017) al començament i la referència bibliogràfica completa al final.
+- [x] Verificar les dades principals amb el PDF de l'article i la font de l'OMT.
+- [x] Compilar i revisar el PDF abans de lliurar-lo via Moodle.
 
-## Pendent (per reprendre)
+## Estat actual
 
-- [ ] Confirmar si cal avisar del lliurament individual.
-- [ ] Triar la limitació pròpia (5.2) i la línia futura addicional (5.4) — una de cada.
-- [ ] Redactar el lliurament final en PDF (encara NO redactat; fins ara només anàlisi i pla).
-- [ ] Revisar cites/pàgines amb rigor abans d'entregar.
+- El text està redactat en castellà amb un registre personal i més senzill que la primera versió.
+- S'han conservat les idees principals, però s'han eliminat fragments massa acadèmics o repetitius.
+- Les citacions de Galí et al. (2017) s'han reduït a una citació inicial; la referència completa es manté al final.
+- La proposta pròpia de la 5.2 tracta la recepció i la possible eficàcia dels eslògans.
+- La proposta pròpia de la 5.4 tracta l'evolució temporal dels eslògans de les 150 destinacions inicials.
+- El document s'ha compilat correctament i s'ha sincronitzat amb Overleaf.
